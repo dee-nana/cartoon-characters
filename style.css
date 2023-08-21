@@ -3,6 +3,7 @@
     height: 25vw;
     object-fit: cover;
 }
-#text-center{
-    background-color: pink;
+
+.pink {
+  background-color: #f0cbdb;
 }
